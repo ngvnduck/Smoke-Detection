@@ -9,11 +9,11 @@ The MQ-2 smoke sensor is sensitive to smoke and to the following flammable gases
 The resistance of the sensor is different depending on the type of the gas.
 
 * Hardware components
-Arduino UNO                   ×	1	
-Breadboard (generic)          ×	1	
-MQ-2 Smoke detection sensor   ×	1	
-Male/Female Jumper Wires	    ×	1	
-5 mm LED: Red                 ×	1	
-5 mm LED: Green               ×	1	
-Buzzer	                      ×	1	
-Resistor 221 ohm	            ×	3
+Arduino UNO                   ×	1	<br>
+Breadboard (generic)          ×	1	<br>
+MQ-2 Smoke detection sensor   ×	1	<br>
+Male/Female Jumper Wires	    ×	1	<br>
+5 mm LED: Red                 ×	1	<br>
+5 mm LED: Green               ×	1	<br>
+Buzzer	                      ×	1	<br>
+Resistor 221 ohm	            ×	3 <br>
